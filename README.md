@@ -46,7 +46,7 @@ make _build
 {
   "mcpServers": {
     "aws-assistant": {
-      "command": "/path/to/aws-assistant",
+      "command": "/path/to/assistant",
       "env": {
         "AWS_ACCESS_KEY_ID": "YOUR_ACCESS_KEY_ID",
         "AWS_SECRET_ACCESS_KEY": "YOUR_SECRET_ACCESS_KEY",
