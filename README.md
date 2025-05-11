@@ -1,4 +1,4 @@
-# AWS Assistant (AWS 조수)
+# AWS Assistant
 
 AWS 리소스를 쉽게 관리할 수 있는 MCP 기반의 AWS 관리 도구입니다.
 
