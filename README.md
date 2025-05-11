@@ -97,19 +97,3 @@ aws-assistant iam-user search <검색어>
 ├── config/             # 설정 파일
 └── Makefile           # 빌드 스크립트
 ```
-
-## 개발 환경 설정
-
-1. VSCode 설정
-   - Go 확장 설치
-   - 설정 파일: `.vscode/settings.json`
-
-2. 개발 도구
-   - golangci-lint: 코드 품질 검사
-   - goimports: 코드 포맷팅
-
-## 테스트
-
-```bash
-make test
-```
